@@ -1,0 +1,2 @@
+# SprintPlanningGenerator
+SprintPlanningGenerator
